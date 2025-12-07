@@ -1,5 +1,5 @@
 # Logans-Hackpad
- This is my hackpad (macropad). It may look like I just followed the guide and did not really customize anything because that is basically what I did. I copied it because that was what I wanted and I have never done anything like this before. 
+ This is my hackpad (macropad). I plan on using it for music, something with games and possibly streaming, I have 6 switches that are programmable to keys on a keyboard and this is one of the first projects of this kind that I have ever done.
 
 <img width="561" height="560" alt="Screen Shot 2025-12-07 at 3 06 52 PM" src="https://github.com/user-attachments/assets/1acd3e2d-973d-40e5-ad67-d91e31422295" />
 <img width="532" height="543" alt="Screen Shot 2025-12-07 at 3 06 39 PM" src="https://github.com/user-attachments/assets/e4eb4980-ea2e-4303-b75c-32d09b4cf2b1" />
