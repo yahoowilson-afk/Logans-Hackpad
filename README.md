@@ -7,3 +7,11 @@
 <img width="530" height="415" alt="Screen Shot 2025-12-07 at 10 43 22 AM" src="https://github.com/user-attachments/assets/34c74eed-b3e7-4317-8c8c-9aae4ec3070b" />
 <img width="550" height="383" alt="Screen Shot 2025-12-07 at 10 42 49 AM" src="https://github.com/user-attachments/assets/0193208a-b046-4884-ab5e-d2ffeed30776" />
 
+Bill of Materials:
+
+    4x Cherry MX Switches
+    2x SK6812 MINI Leds
+    1x XIAO RP2040
+    4x Blank DSA Keycaps
+    4x M3x16 Bolt
+    4x M3 Heatset
