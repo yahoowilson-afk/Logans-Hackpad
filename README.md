@@ -1,11 +1,11 @@
 # Logans-Hackpad
  This is my hackpad (macropad). It may look like I just followed the guide and did not really customize anything because that is basically what I did. I copied it because that was what I wanted and I have never done anything like this before. 
 
-<img width="659" height="531" alt="Screen Shot 2025-12-06 at 8 16 27 PM" src="https://github.com/user-attachments/assets/0173e811-1651-4d3c-b1d9-46bc9a43af5f" />
-<img width="464" height="544" alt="Screen Shot 2025-12-06 at 8 17 15 PM" src="https://github.com/user-attachments/assets/8c80deb3-d80e-4e71-b7f9-629c6d64cb45" />
-<img width="515" height="420" alt="Screen Shot 2025-12-07 at 10 43 42 AM" src="https://github.com/user-attachments/assets/7501b761-cc46-4fc8-affd-946f98490e14" />
-<img width="530" height="415" alt="Screen Shot 2025-12-07 at 10 43 22 AM" src="https://github.com/user-attachments/assets/34c74eed-b3e7-4317-8c8c-9aae4ec3070b" />
-<img width="550" height="383" alt="Screen Shot 2025-12-07 at 10 42 49 AM" src="https://github.com/user-attachments/assets/0193208a-b046-4884-ab5e-d2ffeed30776" />
+<img width="561" height="560" alt="Screen Shot 2025-12-07 at 3 06 52 PM" src="https://github.com/user-attachments/assets/1acd3e2d-973d-40e5-ad67-d91e31422295" />
+<img width="532" height="543" alt="Screen Shot 2025-12-07 at 3 06 39 PM" src="https://github.com/user-attachments/assets/e4eb4980-ea2e-4303-b75c-32d09b4cf2b1" />
+<img width="523" height="375" alt="Screen Shot 2025-12-07 at 3 14 50 PM" src="https://github.com/user-attachments/assets/32223a56-41f2-4d5f-80df-0ff366028fec" />
+<img width="550" height="379" alt="Screen Shot 2025-12-07 at 3 15 09 PM" src="https://github.com/user-attachments/assets/757eb377-1d9c-42ce-921c-075ba640d723" />
+<img width="604" height="420" alt="Screen Shot 2025-12-07 at 3 15 20 PM" src="https://github.com/user-attachments/assets/14af5f4d-0c4f-4b4a-a272-93fe8fe27feb" />
 
 Bill of Materials:
 
